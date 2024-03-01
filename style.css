@@ -1,0 +1,171 @@
+.buttons{
+    border: none;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+    
+}
+
+.myaccount{
+    text-align: right;
+    margin-bottom: 290px;
+
+}
+
+
+.pomver{
+    height: 1px;
+    width: 5px;
+
+}
+
+.navigation{
+    background-color: black;
+    height: 75px;
+
+}
+
+#buynow{
+    border: none;
+    padding: 5px;
+    text-align: right;
+    margin: 4px 2px;
+    border-radius: 190px;
+
+}
+
+.embrace{
+    background-image: url(/Images/fashion-1284496_1280.jpg);
+    width: 80%;
+    height: 500px;
+    border-radius: 45px;
+    margin-bottom: 200px;
+    margin-left: 90px;
+    margin-right: 150px;
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.bottom-left-embrace{
+    position: absolute;
+    bottom: 70px;
+    left: 16px;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+.bottom-left-designed{
+    position: absolute;
+    bottom: 15px;
+    left: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+
+}
+.buynow{
+    margin-top: 650px;
+    right: 16px;
+    border-radius: 70px;
+    padding: 10px;
+    text-align:end;
+}
+.Magic{
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+
+}
+
+.heels{
+    display: flex;
+    zoom: 45%;
+}
+
+.heels-two{
+    display: flex;
+    zoom: 45%;
+}
+
+#Model{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#Model2{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.see-all{
+    background-color: black;
+    color: white;
+    border: solid black 1px;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 550px;
+}
+.seeall{
+    background-color: black;
+    color: white;
+    border: solid black 1px;
+    border-radius: 10px;
+}
+
+.atoms{
+    position: absolute;
+    margin-bottom: 300px;
+    right: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+
+
+}
+.heelsawait{
+    zoom: 45%;
+}
+
+.Explore{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.heels-explore{
+    zoom: 45%;
+}
+
+#Model3{
+    display: flex;
+    justify-content: space-evenly;
+}
+.see-explore{
+    background-color: black;
+    color: white;
+    border: solid black 1px;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 550px;
+    position: absolute;
+
+}
+
+.ready{
+    background-image: url('/Images/heel20.jpg');
+    width: 85%;
+    height: 400px;
+    border-radius: 45px;
+    margin-left: 90px;
+    margin-right: 150px;
+    margin-bottom: 200px;
+}
+.footer{
+    background-color: black;
+    color:white;
+    text-emphasis-color: white;
+    height: 50px;
+}
